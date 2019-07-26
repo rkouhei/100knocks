@@ -1,2 +1,3 @@
 target = 'stressed'
-print(target[::-1])
+rev = target[::-1]
+print(rev)
