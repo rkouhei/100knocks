@@ -1,1 +1,1 @@
-tr '\t' ' ' < data/hightemp.txt
+tr '\t' ' ' < ../data/hightemp.txt

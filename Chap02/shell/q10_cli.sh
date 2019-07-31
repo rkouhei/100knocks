@@ -1,1 +1,1 @@
-wc -l < data/hightemp.txt
+wc -l < ../data/hightemp.txt

@@ -1,4 +1,4 @@
 echo "N : " 
 read x
 
-tail -n $x data/hightemp.txt
+tail -n $x ../data/hightemp.txt
